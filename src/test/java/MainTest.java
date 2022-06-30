@@ -18,7 +18,7 @@ public class MainTest {
     @Test
     void Addierencontrol() {
 
-        //given                                     // Welche variablen werden benötigt
+        //given                                     // Welche variablen werden benötigt z.B diese zwei Integer Variablen
 
         int zahl1 = 2;
         int zahl2 = 2;
