@@ -10,7 +10,7 @@ public class MainTest {
         //when
         int actual = Main.numberlog(number);
         //then
-        int expected = 1;
+        int expected = 2;
         Assertions.assertEquals(expected, actual);
 
     }
